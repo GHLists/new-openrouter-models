@@ -9,7 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-_No list has been generated yet._
+## Latest list — 2026-09-28 18:21 UTC
+
+New models listed between 2026-09-28 17:21 UTC and 2026-09-28 18:21 UTC.
+
+[Full CSV](data/new-models-2026-09-28T18-21-45-335939Z.csv)
+
+| Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
+| :------------ | :---- | ------: | ---------: | -------------: |
+| 2026-09-28 18:04:46 | [Anthropic: Claude Sonnet 5.5](https://openrouter.ai/anthropic/claude-sonnet-5.5) | 1,000,000 | $2.00 | $10.00 |
 
 ## Data source
 

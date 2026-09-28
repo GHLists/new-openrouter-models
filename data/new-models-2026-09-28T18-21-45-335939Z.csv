@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-09-28T18:04:46Z,anthropic/claude-sonnet-5.5,Anthropic: Claude Sonnet 5.5,1000000,0.000002,0.00001,text+image+file->text,"Claude Sonnet 5.5 is Anthropic's Sonnet-class model for well-scoped everyday work, succeeding Claude Sonnet 5 as a direct upgrade. It is especially strong at building features, fixing bugs, and producing..."
