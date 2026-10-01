@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 14:20 UTC
+## Latest list — 2026-10-01 18:19 UTC
 
-New models listed between 2026-10-01 13:19 UTC and 2026-10-01 14:20 UTC.
+New models listed between 2026-10-01 17:21 UTC and 2026-10-01 18:19 UTC.
 
-[Full CSV](data/new-models-2026-10-01T14-20-45-487257Z.csv)
+[Full CSV](data/new-models-2026-10-01T18-19-13-350387Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-01 14:07:03 | [Pareto 26.10 Preview](https://openrouter.ai/unbiased/pareto-26.10-preview) | 1,048,576 | $0.80 | $3.20 |
+| 2026-10-01 17:22:15 | [Apodex: Apodex 1.1 Mini (free)](https://openrouter.ai/apodex/apodex-1.1-mini%3Afree) | 262,144 | free | free |
 
 ## Data source
 

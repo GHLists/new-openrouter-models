@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-10-01T17:22:15Z,apodex/apodex-1.1-mini:free,Apodex: Apodex 1.1 Mini (free),262144,0,0,text->text,"Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,..."
