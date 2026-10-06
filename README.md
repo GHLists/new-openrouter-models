@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 18:19 UTC
+## Latest list — 2026-10-06 14:20 UTC
 
-New models listed between 2026-10-01 17:21 UTC and 2026-10-01 18:19 UTC.
+New models listed between 2026-10-06 13:22 UTC and 2026-10-06 14:20 UTC.
 
-[Full CSV](data/new-models-2026-10-01T18-19-13-350387Z.csv)
+[Full CSV](data/new-models-2026-10-06T14-20-53-348333Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-01 17:22:15 | [Apodex: Apodex 1.1 Mini (free)](https://openrouter.ai/apodex/apodex-1.1-mini%3Afree) | 262,144 | free | free |
+| 2026-10-06 13:42:02 | [Mistral: Mistral Large 4](https://openrouter.ai/mistralai/mistral-large-4-0) | 524,288 | $0.68 | $2.09 |
 
 ## Data source
 
