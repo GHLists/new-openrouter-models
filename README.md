@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 14:20 UTC
+## Latest list — 2026-10-07 19:19 UTC
 
-New models listed between 2026-10-06 13:22 UTC and 2026-10-06 14:20 UTC.
+New models listed between 2026-10-07 18:19 UTC and 2026-10-07 19:19 UTC.
 
-[Full CSV](data/new-models-2026-10-06T14-20-53-348333Z.csv)
+[Full CSV](data/new-models-2026-10-07T19-19-45-689033Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-06 13:42:02 | [Mistral: Mistral Large 4](https://openrouter.ai/mistralai/mistral-large-4-0) | 524,288 | $0.68 | $2.09 |
+| 2026-10-07 18:31:23 | [Anthropic: Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5) | 1,000,000 | $0.10 | $0.50 |
+| 2026-10-07 18:31:23 | [Anthropic: Claude Haiku 5.5 (batch)](https://openrouter.ai/anthropic/claude-haiku-5.5%3Abatch) | 1,000,000 | $0.05 | $0.25 |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-10-07T18:31:23Z,anthropic/claude-haiku-5.5,Anthropic: Claude Haiku 5.5,1000000,0.0000001,0.0000005,text+image+file->text,"Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and..."
+2026-10-07T18:31:23Z,anthropic/claude-haiku-5.5:batch,Anthropic: Claude Haiku 5.5 (batch),1000000,0.00000005,0.00000025,text+image+file->text,"Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and..."
