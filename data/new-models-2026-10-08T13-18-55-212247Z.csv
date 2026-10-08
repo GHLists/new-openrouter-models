@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-10-08T12:34:09Z,stepfun/step-5-preview,StepFun: Step 5 Preview,1000000,0.000001,0.0000027,text+image+video->text,"Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional..."
