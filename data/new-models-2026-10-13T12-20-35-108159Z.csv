@@ -1,0 +1,3 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-10-13T12:09:11Z,scaledown/extract,ScaleDown: Extract,1000000,0.00000004,0,text+image+file->text,"Extract is a description-driven entity extraction model from ScaleDown. Instead of a fixed set of entity types, callers describe the fields they want in plain English through `provider.options.scaledown.entities`, and the..."
+2026-10-13T12:09:20Z,scaledown/summarize,ScaleDown: Summarize,1000000,0.00000004,0,text+image+file->text,"Summarize is an abstractive summarization model from ScaleDown. It condenses long text and documents into a fluent, faithful rewrite rather than lifting sentences from the source, and is suited for..."
