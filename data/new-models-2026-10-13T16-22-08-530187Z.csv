@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-10-13T16:04:37Z,google/gemini-4-argon,Google: Gemini 4 Argon,1048576,0.000002,0.00001,text+image+file+audio+video->text,"Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across..."
