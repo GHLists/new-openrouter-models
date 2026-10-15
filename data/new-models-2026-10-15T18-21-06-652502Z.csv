@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-10-15T17:57:49Z,meta/muse-spark-open,Meta: Muse Spark Open,1048576,0.00000125,0.00000425,text+image+file+audio+video->text,"Muse Spark Open is a coding-optimized open-weight model. Trained specifically for agentic coding workflows, it delivers higher first-attempt accuracy, reliable tool calling, and deep codebase understanding across the repos developers..."

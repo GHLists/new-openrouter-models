@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 15:21 UTC
+## Latest list — 2026-10-15 18:21 UTC
 
-New models listed between 2026-10-15 14:20 UTC and 2026-10-15 15:21 UTC.
+New models listed between 2026-10-15 17:20 UTC and 2026-10-15 18:21 UTC.
 
-[Full CSV](data/new-models-2026-10-15T15-21-29-757031Z.csv)
+[Full CSV](data/new-models-2026-10-15T18-21-06-652502Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-15 15:04:22 | [NVIDIA: Nemotron 3.5 Super VL (free)](https://openrouter.ai/nvidia/nemotron-3.5-super-vl%3Afree) | 1,000,000 | free | free |
+| 2026-10-15 17:57:49 | [Meta: Muse Spark Open](https://openrouter.ai/meta/muse-spark-open) | 1,048,576 | $1.25 | $4.25 |
 
 ## Data source
 
