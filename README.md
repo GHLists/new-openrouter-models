@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 18:21 UTC
+## Latest list — 2026-10-16 19:19 UTC
 
-New models listed between 2026-10-15 17:20 UTC and 2026-10-15 18:21 UTC.
+New models listed between 2026-10-16 18:18 UTC and 2026-10-16 19:19 UTC.
 
-[Full CSV](data/new-models-2026-10-15T18-21-06-652502Z.csv)
+[Full CSV](data/new-models-2026-10-16T19-19-11-049329Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-15 17:57:49 | [Meta: Muse Spark Open](https://openrouter.ai/meta/muse-spark-open) | 1,048,576 | $1.25 | $4.25 |
+| 2026-10-16 19:04:56 | [XingChen: Xing4.0 29B A4B (free)](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b%3Afree) | 262,144 | free | free |
 
 ## Data source
 
