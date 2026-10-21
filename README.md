@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 09:20 UTC
+## Latest list — 2026-10-21 23:19 UTC
 
-New models listed between 2026-10-17 08:20 UTC and 2026-10-17 09:20 UTC.
+New models listed between 2026-10-21 22:19 UTC and 2026-10-21 23:19 UTC.
 
-[Full CSV](data/new-models-2026-10-17T09-20-16-13006Z.csv)
+[Full CSV](data/new-models-2026-10-21T23-19-32-707813Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-17 08:27:04 | [DeepSeek: DeepSeek V4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | 1,048,576 | $0.15 | $0.60 |
+| 2026-10-21 22:46:05 | [Recursive: Flint (free)](https://openrouter.ai/recursive/flint-v1.0%3Afree) | 262,144 | free | free |
 
 ## Data source
 
