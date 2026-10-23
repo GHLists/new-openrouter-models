@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-10-23T17:56:28Z,moonshotai/kimi-k3.1-pro,MoonshotAI: Kimi K3.1 Pro,1048576,0.000002,0.00001,text+image+video->text,"Kimi K3.1 Pro is Moonshot AI's flagship open-weight multimodal reasoning model and a post-trained successor to Kimi K3, with a 1M-token context window. It is built for long-horizon coding, 3D..."
