@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:20 UTC
+## Latest list — 2026-10-26 18:19 UTC
 
-New models listed between 2026-10-23 17:18 UTC and 2026-10-23 18:20 UTC.
+New models listed between 2026-10-26 17:19 UTC and 2026-10-26 18:19 UTC.
 
-[Full CSV](data/new-models-2026-10-23T18-20-26-430982Z.csv)
+[Full CSV](data/new-models-2026-10-26T18-19-14-02935Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-23 17:56:28 | [MoonshotAI: Kimi K3.1 Pro](https://openrouter.ai/moonshotai/kimi-k3.1-pro) | 1,048,576 | $2.00 | $10.00 |
+| 2026-10-26 18:13:29 | [OpenAI: GPT-6.1 Terra](https://openrouter.ai/openai/gpt-6.1-terra) | 1,050,000 | $1.00 | $5.00 |
 
 ## Data source
 
