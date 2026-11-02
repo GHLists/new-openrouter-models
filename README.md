@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 18:19 UTC
+## Latest list — 2026-11-02 14:20 UTC
 
-New models listed between 2026-10-26 17:19 UTC and 2026-10-26 18:19 UTC.
+New models listed between 2026-11-02 13:21 UTC and 2026-11-02 14:20 UTC.
 
-[Full CSV](data/new-models-2026-10-26T18-19-14-02935Z.csv)
+[Full CSV](data/new-models-2026-11-02T14-20-51-154486Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-10-26 18:13:29 | [OpenAI: GPT-6.1 Terra](https://openrouter.ai/openai/gpt-6.1-terra) | 1,050,000 | $1.00 | $5.00 |
+| 2026-11-02 13:29:14 | [Z.ai: GLM 5.3 FlashX Legal](https://openrouter.ai/z-ai/glm-5.3-flashx-legal) | 1,048,576 | $0.37 | $1.25 |
 
 ## Data source
 

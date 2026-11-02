@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-02T13:29:14Z,z-ai/glm-5.3-flashx-legal,Z.ai: GLM 5.3 FlashX Legal,1048576,0.00000037,0.00000125,text+image+video->text,"GLM-5.3-FlashX-Legal (GLM-Legal) is Z.ai's legal-domain variant of GLM-5.3-FlashX, a native multimodal model that accepts text, image, and video input and produces text. It adds legal-domain mid-training and post-training with reinforcement..."
