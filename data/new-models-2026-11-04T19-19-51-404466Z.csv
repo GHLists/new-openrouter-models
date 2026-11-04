@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-04T19:03:10Z,ricursiveai/ripple-65b-preview,ricursiveAI/Ripple-65B-Preview,16384,0.0000002,0.0000006,text->text,"Ripple-65B-Preview by ricursiveAI, a 65B model with native tool calling, served in BF16."
