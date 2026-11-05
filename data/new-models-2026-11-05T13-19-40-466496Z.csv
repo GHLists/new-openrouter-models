@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-05T13:12:01Z,openrouter/auto-code,Auto Code,2000000,-1,-1,text+image+file+audio+video->text+image,"Auto Code is OpenRouter’s router built specifically for coding agents and harnesses. It uses the same routing engine as the [Auto Router](https://openrouter.ai/openrouter/auto), with every request treated as part of an..."
