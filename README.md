@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 19:19 UTC
+## Latest list — 2026-11-05 06:20 UTC
 
-New models listed between 2026-11-04 18:20 UTC and 2026-11-04 19:19 UTC.
+New models listed between 2026-11-05 05:21 UTC and 2026-11-05 06:20 UTC.
 
-[Full CSV](data/new-models-2026-11-04T19-19-51-404466Z.csv)
+[Full CSV](data/new-models-2026-11-05T06-20-31-153833Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-11-04 19:03:10 | [ricursiveAI/Ripple-65B-Preview](https://openrouter.ai/ricursiveai/ripple-65b-preview) | 16,384 | $0.20 | $0.60 |
+| 2026-11-05 05:59:35 | [inclusionAI: Ling 3.0 Tiny](https://openrouter.ai/inclusionai/ling-3.0-tiny) | 262,144 | $0.01 | $0.04 |
 
 ## Data source
 
