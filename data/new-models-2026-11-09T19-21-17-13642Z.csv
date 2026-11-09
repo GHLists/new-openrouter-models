@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-09T18:07:28Z,meta/muse-ember,Meta: Muse Ember,1048576,0.0000001,0.0000005,text+image+file+audio+video->text,"Muse Ember is the smallest and most efficient model from Meta that’s designed for complex reasoning execution and the work agents repeat all day: tool calls, coding agent subtasks, routing,..."
