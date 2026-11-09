@@ -1,0 +1,3 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-09T19:49:41Z,anthropic/claude-fable-5.2,Anthropic: Claude Fable 5.2,1000000,0.000008,0.00004,text+image+file->text,"Claude Fable 5.2 is Anthropic's most capable model for the most demanding technical work, with gains over Fable 5.1 in coding, reasoning, and vision. In prerelease testing it completed otherwise-infeasible..."
+2026-11-09T19:49:41Z,anthropic/claude-fable-5.2:batch,Anthropic: Claude Fable 5.2 (batch),1000000,0.000004,0.00002,text+image+file->text,"Claude Fable 5.2 is Anthropic's most capable model for the most demanding technical work, with gains over Fable 5.1 in coding, reasoning, and vision. In prerelease testing it completed otherwise-infeasible..."
