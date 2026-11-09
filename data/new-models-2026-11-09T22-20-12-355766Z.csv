@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-09T22:04:07Z,thinkingmachines/inkling-2-small:free,Thinking Machines: Inkling 2 Small (free),1048576,0,0,text+image->text,"Inkling 2 Small is a multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second Inkling..."

@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 20:20 UTC
+## Latest list — 2026-11-09 22:20 UTC
 
-New models listed between 2026-11-09 19:21 UTC and 2026-11-09 20:20 UTC.
+New models listed between 2026-11-09 21:19 UTC and 2026-11-09 22:20 UTC.
 
-[Full CSV](data/new-models-2026-11-09T20-20-34-96199Z.csv)
+[Full CSV](data/new-models-2026-11-09T22-20-12-355766Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-11-09 19:49:41 | [Anthropic: Claude Fable 5.2](https://openrouter.ai/anthropic/claude-fable-5.2) | 1,000,000 | $8.00 | $40.00 |
-| 2026-11-09 19:49:41 | [Anthropic: Claude Fable 5.2 (batch)](https://openrouter.ai/anthropic/claude-fable-5.2%3Abatch) | 1,000,000 | $4.00 | $20.00 |
+| 2026-11-09 22:04:07 | [Thinking Machines: Inkling 2 Small (free)](https://openrouter.ai/thinkingmachines/inkling-2-small%3Afree) | 1,048,576 | free | free |
 
 ## Data source
 
