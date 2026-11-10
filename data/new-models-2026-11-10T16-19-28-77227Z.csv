@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-10T16:07:51Z,google/gemini-4-carbon,Google: Gemini 4 Carbon,1048576,0.000002,0.00001,text+image+file+audio+video->text,"Gemini 4 Carbon is a frontier Gemini 4 model from Google for coding, agentic and complex reasoning work. It takes text, image, audio, video and file input, supports long decode..."

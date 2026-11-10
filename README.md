@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 04:19 UTC
+## Latest list — 2026-11-10 16:19 UTC
 
-New models listed between 2026-11-10 03:21 UTC and 2026-11-10 04:19 UTC.
+New models listed between 2026-11-10 15:21 UTC and 2026-11-10 16:19 UTC.
 
-[Full CSV](data/new-models-2026-11-10T04-19-29-410365Z.csv)
+[Full CSV](data/new-models-2026-11-10T16-19-28-77227Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-11-10 03:46:19 | [Nex AGI: Nex-N2.6](https://openrouter.ai/nex-agi/nex-n2.6) | 262,144 | $0.12 | $0.40 |
+| 2026-11-10 16:07:51 | [Google: Gemini 4 Carbon](https://openrouter.ai/google/gemini-4-carbon) | 1,048,576 | $2.00 | $10.00 |
 
 ## Data source
 
