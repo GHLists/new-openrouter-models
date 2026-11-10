@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 22:20 UTC
+## Latest list — 2026-11-10 04:19 UTC
 
-New models listed between 2026-11-09 21:19 UTC and 2026-11-09 22:20 UTC.
+New models listed between 2026-11-10 03:21 UTC and 2026-11-10 04:19 UTC.
 
-[Full CSV](data/new-models-2026-11-09T22-20-12-355766Z.csv)
+[Full CSV](data/new-models-2026-11-10T04-19-29-410365Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-11-09 22:04:07 | [Thinking Machines: Inkling 2 Small (free)](https://openrouter.ai/thinkingmachines/inkling-2-small%3Afree) | 1,048,576 | free | free |
+| 2026-11-10 03:46:19 | [Nex AGI: Nex-N2.6](https://openrouter.ai/nex-agi/nex-n2.6) | 262,144 | $0.12 | $0.40 |
 
 ## Data source
 
