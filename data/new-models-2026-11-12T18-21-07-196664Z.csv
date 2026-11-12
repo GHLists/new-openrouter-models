@@ -1,0 +1,2 @@
+created_at,model,name,context_length,prompt_price,completion_price,modality,description
+2026-11-12T18:01:00Z,google/gemini-4-hydrogen,Google: Gemini 4 Hydrogen,1048576,0.0000015,0.0000075,text+image+file+audio+video->text,"Gemini 4 Hydrogen is the high-efficiency workhorse model of the Gemini 4 family from Google, built for high-throughput agentic workflows, coding and multi-model routing at lower cost and latency than..."
