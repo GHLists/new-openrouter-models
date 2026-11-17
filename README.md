@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 18:21 UTC
+## Latest list — 2026-11-17 18:21 UTC
 
-New models listed between 2026-11-12 17:19 UTC and 2026-11-12 18:21 UTC.
+New models listed between 2026-11-17 17:19 UTC and 2026-11-17 18:21 UTC.
 
-[Full CSV](data/new-models-2026-11-12T18-21-07-196664Z.csv)
+[Full CSV](data/new-models-2026-11-17T18-21-53-129403Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-11-12 18:01:00 | [Google: Gemini 4 Hydrogen](https://openrouter.ai/google/gemini-4-hydrogen) | 1,048,576 | $1.50 | $7.50 |
+| 2026-11-17 17:59:31 | [OpenAI: GPT-6.2 Sol](https://openrouter.ai/openai/gpt-6.2-sol) | 1,050,000 | $2.00 | $10.00 |
+| 2026-11-17 18:00:09 | [OpenAI: GPT-6.2 Sol Pro](https://openrouter.ai/openai/gpt-6.2-sol-pro) | 1,050,000 | $2.00 | $10.00 |
+| 2026-11-17 18:00:23 | [OpenAI: GPT-6.2 Astra](https://openrouter.ai/openai/gpt-6.2-astra) | 1,050,000 | $8.00 | $40.00 |
+| 2026-11-17 18:00:32 | [OpenAI: GPT-6.2 Astra Pro](https://openrouter.ai/openai/gpt-6.2-astra-pro) | 1,050,000 | $8.00 | $40.00 |
 
 ## Data source
 
