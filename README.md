@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 18:21 UTC
+## Latest list — 2026-11-21 01:20 UTC
 
-New models listed between 2026-11-17 17:19 UTC and 2026-11-17 18:21 UTC.
+New models listed between 2026-11-21 00:21 UTC and 2026-11-21 01:20 UTC.
 
-[Full CSV](data/new-models-2026-11-17T18-21-53-129403Z.csv)
+[Full CSV](data/new-models-2026-11-21T01-20-22-664528Z.csv)
 
 | Created (UTC) | Model | Context | Prompt $/M | Completion $/M |
 | :------------ | :---- | ------: | ---------: | -------------: |
-| 2026-11-17 17:59:31 | [OpenAI: GPT-6.2 Sol](https://openrouter.ai/openai/gpt-6.2-sol) | 1,050,000 | $2.00 | $10.00 |
-| 2026-11-17 18:00:09 | [OpenAI: GPT-6.2 Sol Pro](https://openrouter.ai/openai/gpt-6.2-sol-pro) | 1,050,000 | $2.00 | $10.00 |
-| 2026-11-17 18:00:23 | [OpenAI: GPT-6.2 Astra](https://openrouter.ai/openai/gpt-6.2-astra) | 1,050,000 | $8.00 | $40.00 |
-| 2026-11-17 18:00:32 | [OpenAI: GPT-6.2 Astra Pro](https://openrouter.ai/openai/gpt-6.2-astra-pro) | 1,050,000 | $8.00 | $40.00 |
+| 2026-11-21 00:49:48 | [RadixArk: DaisyRose 27B](https://openrouter.ai/radixark/daisyrose-27b) | 262,144 | $0.15 | $1.88 |
 
 ## Data source
 
